@@ -1,27 +1,73 @@
-# AdminProUdemy
+# AdminPro-Udemy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
+Este proyecto esta creado en Angular 8, su finalidad es que alumno aprenda a utilizar el backEnd y FrontEnd con MongoDB
+para installar front-end en su computadora despues de bajar el proyecto.
 
-## Development server
+Ejecute el comando
+npm install
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Requisitos
+   
+  PrimeNG 8 
+  Angular 8.3.6
+  Node version 10
+  Express
 
-## Code scaffolding
+<p>
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto5.jpg" width="100%" height="300" title="App AdminPro-Udemy">
+</p>
+  
+  
+# Servidores de aplicacion en los que puede correr el front-END
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Payara 5
+- GlassFish 5.1
+- WidFly 17
+- Nginx
+- Apache Tomcat 9
 
-## Build
+# Servidor de ejecución de Express Node
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- npm i -g nodemon
+- npm i express --save
+- npm i cors --save
+- npm i mongoose --save
+- npm i mongoose-unique-validator --save
+- npm i bcryptjs --save
+- npm i body-parser --save
+- npm i rxjs-compat --save
+- npm i express-fileupload --save
+- npm i google-auth-library --save
+- npm i serve-index --save
 
-## Running unit tests
+# Imagenes del proyecto AdminPro-Udemy
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Ejecutando Express server de Node
+  Ejecute: npm start
+  
+<p>
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto1.jpg" width="100%" height="300" title="Servidor Express">
+</p>
 
-## Running end-to-end tests
+- Ejecutando el front-end
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+  Ejecute: ng serve -o
+<p>
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto2.jpg" width="100%" height="300" title="App AdminPro-Udemy">
+</p>
 
-## Further help
+- Varias imagenes
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<p>
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto3.jpg" width="100%" height="300" title="App AdminPro-Udemy">
+</p>
+
+
+<p>
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto4.jpg" width="100%" height="300" title="App AdminPro-Udemy">
+</p>
+
+
+<p>
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto6.jpg" width="100%" height="300" title="App AdminPro-Udemy">
+</p>

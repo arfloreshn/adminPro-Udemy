@@ -13,6 +13,8 @@ npm install
   Node version 10
   Express
 
+#Imagen del proyecto
+  
 <p>
   <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto5.jpg" width="100%" height="300" title="App AdminPro-Udemy">
 </p>
@@ -26,7 +28,7 @@ npm install
 - Nginx
 - Apache Tomcat 9
 
-# Servidor de ejecución de Express Node
+# Librerias usadas en el backend de Express con Node
 
 - npm i -g nodemon
 - npm i express --save
@@ -43,31 +45,32 @@ npm install
 # Imagenes del proyecto AdminPro-Udemy
 
 - Ejecutando Express server de Node
-  Ejecute: npm start
+  comando: npm start
   
 <p>
-  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto1.jpg" width="100%" height="300" title="Servidor Express">
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto1.jpg" width="100%" height="400" title="Servidor Express">
 </p>
 
 - Ejecutando el front-end
-
-  Ejecute: ng serve -o
+  comando: ng serve -o
+  
 <p>
-  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto2.jpg" width="100%" height="300" title="App AdminPro-Udemy">
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto2.jpg" width="100%" height="400" title="App AdminPro-Udemy">
 </p>
 
-- Varias imagenes
+- ABM DE USUARIOS
 
 <p>
-  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto3.jpg" width="100%" height="300" title="App AdminPro-Udemy">
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto3.jpg" width="100%" height="400" title="App AdminPro-Udemy">
 </p>
 
+- ABM DE HOSPITALES
 
 <p>
-  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto4.jpg" width="100%" height="300" title="App AdminPro-Udemy">
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto4.jpg" width="100%" height="400" title="App AdminPro-Udemy">
 </p>
 
-
+- VALIDACION DE SESSIONES
 <p>
-  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto6.jpg" width="100%" height="300" title="App AdminPro-Udemy">
+  <img src="https://github.com/arfloreshn/adminPro-Udemy/blob/master/src/assets/images/foto6.jpg" width="100%" height="400" title="App AdminPro-Udemy">
 </p>
